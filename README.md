@@ -20,7 +20,7 @@
 
 <br/>
 
-- :mortar_board: Electronic Information Major
-- :gear: JavaScript & Vue & Python
-- :seedling: Self-taught front end Web technology
+- :mortar_board: Master of Management
+- :gear: R & Python 
+- :seedling: Self-taught JavaScript
 - :sparkles: *Unlimited Progress*
