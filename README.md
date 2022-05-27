@@ -21,6 +21,7 @@
 <br/>
 
 - :mortar_board: Master of Management
+- 🌍: GISer
 - :gear: R & Python 
 - :seedling: Self-taught JavaScript
 - :sparkles: *Unlimited Progress*
