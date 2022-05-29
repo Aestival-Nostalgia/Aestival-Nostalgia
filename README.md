@@ -25,3 +25,5 @@
 - :gear: R & Python 
 - :seedling: Self-taught JavaScript
 - :sparkles: *Unlimited Progress*
+
+![](<https://www.instagram.com/reel/CR-xSCPABBC/?utm_source=ig_web_copy_link>)
