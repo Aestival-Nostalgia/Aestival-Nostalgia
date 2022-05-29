@@ -26,4 +26,4 @@
 - :seedling: Self-taught JavaScript
 - :sparkles: *Unlimited Progress*
 
-![](https://www.instagram.com/reel/CR-xSCPABBC/?utm_source=ig_web_copy_link)
+![](https://i.guim.co.uk/img/media/b29656656a12a6fee41c827b5e29fc07713efe83/42_4_886_531/master/886.jpg?width=620&quality=85&auto=format&fit=max&s=146091bde7dd1b2f8f3def64e97d405a)
