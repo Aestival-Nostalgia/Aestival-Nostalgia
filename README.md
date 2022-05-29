@@ -25,5 +25,5 @@
 - :gear: R & Python 
 - :seedling: Self-taught JavaScript
 - :sparkles: *Unlimited Progress*
-
+  
 ![](https://i.guim.co.uk/img/media/b29656656a12a6fee41c827b5e29fc07713efe83/42_4_886_531/master/886.jpg?width=620&quality=85&auto=format&fit=max&s=146091bde7dd1b2f8f3def64e97d405a)
