@@ -6,7 +6,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/R-informational?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/R-informational?style=flat-square&logo=R&logoColor=white)
 ![](https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white)
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
