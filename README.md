@@ -8,7 +8,6 @@
 
 ![](https://img.shields.io/badge/R-9cf?style=flat-square&logo=R&logoColor=white)
 ![](https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white)
-
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 <br/>
